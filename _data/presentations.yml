@@ -1,0 +1,8 @@
+- id: 1
+  title: "Precog: Action-Based Time-Shifted Prefetching for Web Applications on Mobile Devices"
+  speakers: "Shruti Sanadhya (Hewlett Packard Labs, Palo Alto, CA), Uma Parthavi Moravapalle (Georgia Institute of Technology, Atlanta, GA), Kyu-Han Kim (Hewlett Packard Labs, Palo Alto, CA), Raghupathy Sivakumar (Georgia Institute of Technology, Atlanta, GA)"
+  type: "presentation"
+- id: 2
+  title: "Automated Least Privileges in Cloud-Based Web Services"
+  speakers: "Matthew Sanders (Colorado School of Mines), Chuan Yue (Colorado School of Mines)"
+  type: "presentation"

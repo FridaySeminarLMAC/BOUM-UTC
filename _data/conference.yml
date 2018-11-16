@@ -1,0 +1,73 @@
+full_title: Journée BOUM UTC 2019
+short_title: Journée BOUM UTC 2019
+email: fridayseminar.lmac@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  En cours de rédaction par Tarik
+location: Université de Technologie de Compiègne, France, 2019
+date: 20 février, 2019
+logo_path: ./assets/images/SU-UTC18-70.jpg
+slideshow:
+  - id: 0
+    image_path: ./assets/images/slideshow/header-bg.jpg
+    description: Centre PG
+    photographer_name: NA
+    photographer_link: https://www.utc.fr/
+    active: True
+  - id: 1
+    image_path: ./assets/images/slideshow/header-bg.jpg
+    description: Centre PG
+    photographer_name: NA
+    photographer_link: https://www.utc.fr/
+navbar:
+  - id: 0
+    label: Accueil
+    path: /
+    visible: True
+  - id: 1
+    label: Organization
+    path: /organization.html
+    visible: True
+  - id: 2
+    label: Programs
+    path: /program.html
+    visible: True
+  - id: 3
+    label: Plan d'accès
+    path: /venue.html
+    visible: True
+  - id: 4
+    label: Inscription
+    path: /registration.html
+    visible: True
+deadlines:
+  - date: 15-12-2018
+    text: Inscription
+    pass_due: False
+  - date: 20-2-2019
+    text: Journée BOUM UTC 2019
+    pass_due: False
+news:
+  - date: 2018-10-5
+    text: Projet accepté par SMAI
+  - date: 2018-11-20
+    text: Site web en ligne
+sponsors:
+  - name: SMAI
+    logo_path: ./assets/images/sponsors/acm-logo.png
+  - name: LMAC
+    logo_path: ./assets/images/sponsors/ieee-logo.gif
+program_chair:
+  - name: Joséphine MERHI BLEIK
+    org: Université de Technologie de Compiègne
+    homepage: http://www.utc.fr/
+  - name: Tarik FAHLAOUI
+    org: Université de Technologie de Compiègne
+    homepage: http://www.utc.fr/
+  - name: Wang GAO
+    org: Université de Technologie de Compiègne
+    homepage: http://www.utc.fr/
+webmaster:
+  - name: Wang GAO
+    org: Université de Technologie de Compiègne
+    homepage: http://www.utc.fr/
+
