@@ -3,9 +3,9 @@ short_title: Journée BOUM UTC 2019
 email: fridayseminar.lmac@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   En cours de rédaction par Tarik
-location: Université de Technologie de Compiègne, France, 2019
-date: 20 février, 2019
-logo_path: ./assets/images/SU-UTC18-70.jpg
+location: Université de Technologie de Compiègne, France
+date: 20 févr. 2019
+logo_path: ./assets/images/SU-UTC18-70.png
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/header-bg.jpg
