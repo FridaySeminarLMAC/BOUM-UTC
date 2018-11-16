@@ -18,6 +18,26 @@ slideshow:
     description: Centre PG
     photographer_name: NA
     photographer_link: https://www.utc.fr/
+  - id: 2
+    image_path: ./assets/images/slideshow/header-bg.jpg
+    description: Centre PG
+    photographer_name: NA
+    photographer_link: https://www.utc.fr/
+  - id: 3
+    image_path: ./assets/images/slideshow/header-bg.jpg
+    description: Centre PG
+    photographer_name: NA
+    photographer_link: https://www.utc.fr/
+  - id: 4
+    image_path: ./assets/images/slideshow/header-bg.jpg
+    description: Centre PG
+    photographer_name: NA
+    photographer_link: https://www.utc.fr/
+  - id: 5
+    image_path: ./assets/images/slideshow/header-bg.jpg
+    description: Centre PG
+    photographer_name: NA
+    photographer_link: https://www.utc.fr/
 navbar:
   - id: 0
     label: Accueil
