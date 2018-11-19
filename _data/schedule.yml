@@ -15,12 +15,12 @@
     type: "service"
   - startTime: "10:30"
     endTime: "12:00"
-    title: "coming soon"
+    title: "Section title"
     type: "presentation"
     events: 
-      - title: "coming soon"
+      - title: "Presentation title coming soon"
         speakers: "coming soon"
-      - title: "coming soon"
+      - title: "Presentation title coming soon"
         speakers: "coming soon"
   - startTime: "12:00"
     endTime: "13:30"
@@ -40,7 +40,7 @@
     title: "Pause café"
     type: "service"
   - startTime: "15:30"
-    endTime: "16:40"
+    endTime: "17:30"
     title: "coming soon"
     type: "presentation"
     events: 
@@ -48,4 +48,7 @@
         speakers: "coming soon"
       - title: "coming soon"
         speakers: "coming soon"
-    
+  - startTime: "17:30"
+    endTime: "18:30"
+    title: "Table round"
+

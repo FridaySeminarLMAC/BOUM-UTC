@@ -1,5 +1,5 @@
-full_title: Journée BOUM UTC 2019
-short_title: Journée BOUM UTC 2019
+full_title: Journée Mathématiques & Innovations Technologiques 2019
+short_title: Journée MIT 2019
 email: fridayseminar.lmac@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   En cours de rédaction par Tarik
@@ -44,11 +44,11 @@ navbar:
     path: /
     visible: True
   - id: 1
-    label: Organization
+    label: Organisation
     path: /organization.html
     visible: True
   - id: 2
-    label: Programs
+    label: Programme & abstract
     path: /program.html
     visible: True
   - id: 3
@@ -60,17 +60,20 @@ navbar:
     path: /registration.html
     visible: True
 deadlines:
-  - date: 15-12-2018
-    text: Inscription
+  - date: 19-11-2018
+    text: Début des inscriptions
+    pass_due: False
+  - date: 20-01-2018
+    text: Fin des inscriptions
     pass_due: False
   - date: 20-2-2019
-    text: Journée BOUM UTC 2019
+    text: Journée MIT 2019
     pass_due: False
 news:
   - date: 2018-10-5
-    text: Projet accepté par SMAI
+    text: Projet accepté par la SMAI
   - date: 2018-11-20
-    text: Site web en ligne
+    text: Site internet mis en ligne
 sponsors:
   - name: SMAI
     logo_path: ./assets/images/sponsors/acm-logo.png
