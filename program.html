@@ -22,8 +22,10 @@ slide_id: 4
                                                 <p class="text-muted">{{timeslot.title}}</p>
                                         </th>
                                     {% else %}
-                                        <th class="bg-primary text-center">
-                                                <h5>{{timeslot.title}}</h5>
+                                        <!-- <th class="bg-primary"> -->
+                                        <th class="bg-success">
+                                                <!-- <h5>{{timeslot.title}}</h5> -->
+                                                {{timeslot.title}}
                                                 {% if timeslot.speaker %}
                                                 <h5>{{timeslot.speaker}}</h5>
                                                 {% endif %}
@@ -41,8 +43,10 @@ slide_id: 4
                                     <td width="20%">
                                     </td>
                                     <td>
-                                        <p><b>{{event.title}}</b></p>
-                                        <p><i>{{event.speakers}}</i></p>
+                                        <p>
+                                        <b><i>{{event.speakers}}</i></b> 
+                                        <br>{{event.title}}</br>
+                                        </p>
                                     </td>
                                 </tr>
                             {% endfor %}
