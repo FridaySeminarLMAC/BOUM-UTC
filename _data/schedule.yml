@@ -11,6 +11,7 @@
     events: 
       - title: "Heudiasyc"
         speakers: "Youcef IMINE"
+        abstract: "assets/abstracts/abstract_MIT_Youcef.pdf"
   - startTime: "9:50"
     endTime: "10:30"
     title: "Title Presentation 2"
@@ -18,20 +19,18 @@
     events: 
       - title: "Heudiasyc"
         speakers: "Abbas CHOKOR"
-
   - startTime: "10:30"
     endTime: "11:10"
     title: "Pause café"
     type: "service"
-
   - startTime: "11:10"
     endTime: "11:50"
-    title: "Title Presentation 3"
+    title: "Disruptive method for optimization study in automotive industry, using EIM modes"
     type: "presentation"
     events: 
       - title: "LMAC / Renault Technopôle"
         speakers: "Etienne GSTALTER"
-
+        abstract: "assets/abstracts/abstract_MIT_Etienne.pdf"
   - startTime: "11:50"
     endTime: "13:30"
     title: "Pause déjeuner"
@@ -43,15 +42,14 @@
     events: 
       - title: "LMAC"
         speakers: "Tarik FAHLAOUI"
-
   - startTime: "14:20"
     endTime: "15:00"
-    title: "Title Presentation 5"
+    title: "A new algorithm for identifying words in biological sequences" 
     type: "presentation"
     events: 
       - title: "LMAC"
         speakers: "Brenda IVETTE GARCIA MAYA"
-
+        abstract: "assets/abstracts/abstract_MIT_Brenda.pdf"
   - startTime: "15:00"
     endTime: "15:30"
     title: "Pause café"
