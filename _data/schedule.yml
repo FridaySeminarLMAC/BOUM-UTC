@@ -28,7 +28,7 @@
     title: "Disruptive method for optimization study in automotive industry, using EIM modes"
     type: "presentation"
     events: 
-      - title: "LMAC / Renault Technopôle"
+      - title: "LMAC / Renault"
         speakers: "Etienne GSTALTER"
         abstract: "assets/abstracts/abstract_MIT_Etienne.pdf"
   - startTime: "11:50"
@@ -37,11 +37,12 @@
     type: "service"
   - startTime: "13:30"
     endTime: "14:10"
-    title: "Réduction de modèle et apprentissage pour des fonctions spatio-temporelles paramétrées"
+    title: "Apprentissage non-intrusif d’un système contrôlé et de son contrôle"
     type: "presentation"
     events: 
       - title: "LMAC"
         speakers: "Tarik FAHLAOUI"
+        abstract: "assets/abstracts/abstract_MIT_Tarik.pdf"
   - startTime: "14:20"
     endTime: "15:00"
     title: "A new algorithm for identifying words in biological sequences" 
