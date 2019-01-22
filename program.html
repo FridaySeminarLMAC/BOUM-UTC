@@ -46,6 +46,9 @@ slide_id: 4
                                         <p>
                                         <b><i>{{event.speakers}}</i></b> 
                                         <br>{{event.title}}</br>
+                                        {% if event.abstract %}
+                                            <a href={{event.abstract}} target="_blank">Abstract</a>
+                                        {% endif %}
                                         </p>
                                     </td>
                                 </tr>
