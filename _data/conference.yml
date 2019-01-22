@@ -48,7 +48,7 @@ navbar:
     path: /organization.html
     visible: True
   - id: 2
-    label: Programme & abstract
+    label: Programme & abstracts
     path: /program.html
     visible: True
   - id: 3
