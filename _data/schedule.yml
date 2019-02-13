@@ -19,6 +19,7 @@
     events: 
       - title: "Heudiasyc"
         speakers: "Abbas CHOKOR"
+        abstract: "assets/abstracts/abstract_MIT_ Abbas.pdf"
   - startTime: "10:30"
     endTime: "11:10"
     title: "Pause café"
@@ -42,7 +43,7 @@
     events: 
       - title: "LMAC"
         speakers: "Tarik FAHLAOUI"
-        abstract: "assets/abstracts/abstract_MIT_Tarik.pdf"
+        # abstract: "assets/abstracts/abstract_MIT_Tarik.pdf"
   - startTime: "14:20"
     endTime: "15:00"
     title: "A new algorithm for identifying words in biological sequences" 
@@ -63,7 +64,7 @@
     events: 
       - title: "LMAC / INERIS"
         speakers: "Wang GAO"
-
+        abstract: "assets/abstracts/abstract_MIT_Wang.pdf"
   - startTime: "16:20"
     endTime: "17:00"
     title: "Title Presentation 7"
